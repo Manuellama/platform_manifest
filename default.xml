@@ -286,6 +286,7 @@
   <project path="frameworks/opt/net/wifi" name="AOSP-JF-MM/platform_frameworks_opt_net_wifi" groups="pdk" remote="github" revision="aosp-6.0-test" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/opt/slim" name="AOSP-JF-MM/platform_frameworks_opt_slim" groups="pdk" remote="github" revision="opt-aosp-mm" />
   <project path="frameworks/opt/telephony" name="AOSP-JF-MM/platform_frameworks_opt_telephony" groups="pdk" remote="github" revision="aosp-6.0-test-caf" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" />
